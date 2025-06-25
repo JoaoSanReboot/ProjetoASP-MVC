@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoMVC\\",
+  "WorkspaceRootPath": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoASP-MVC\\ProjetoMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2BD586B-7E2D-4265-87B1-53CA4508BC3A}|ProjetoMVC\\ProjetoMVC.csproj|c:\\users\\santa\\onedrive\\documentos\\projetoasp\\projetomvc\\projetomvc\\views\\contato\\apagarconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C2BD586B-7E2D-4265-87B1-53CA4508BC3A}|ProjetoMVC\\ProjetoMVC.csproj|c:\\users\\santa\\onedrive\\documentos\\projetoasp\\projetoasp-mvc\\projetomvc\\projetomvc\\views\\contato\\apagarconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C2BD586B-7E2D-4265-87B1-53CA4508BC3A}|ProjetoMVC\\ProjetoMVC.csproj|solutionrelative:projetomvc\\views\\contato\\apagarconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2BD586B-7E2D-4265-87B1-53CA4508BC3A}|ProjetoMVC\\ProjetoMVC.csproj|c:\\users\\santa\\onedrive\\documentos\\projetoasp\\projetomvc\\projetomvc\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C2BD586B-7E2D-4265-87B1-53CA4508BC3A}|ProjetoMVC\\ProjetoMVC.csproj|solutionrelative:projetomvc\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2BD586B-7E2D-4265-87B1-53CA4508BC3A}|ProjetoMVC\\ProjetoMVC.csproj|c:\\users\\santa\\onedrive\\documentos\\projetoasp\\projetomvc\\projetomvc\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2BD586B-7E2D-4265-87B1-53CA4508BC3A}|ProjetoMVC\\ProjetoMVC.csproj|solutionrelative:projetomvc\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2BD586B-7E2D-4265-87B1-53CA4508BC3A}|ProjetoMVC\\ProjetoMVC.csproj|c:\\users\\santa\\onedrive\\documentos\\projetoasp\\projetomvc\\projetomvc\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C2BD586B-7E2D-4265-87B1-53CA4508BC3A}|ProjetoMVC\\ProjetoMVC.csproj|solutionrelative:projetomvc\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Criar.cshtml",
-              "DocumentMoniker": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoMVC\\ProjetoMVC\\Views\\Contato\\Criar.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMVC\\Views\\Contato\\Criar.cshtml",
-              "ToolTip": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoMVC\\ProjetoMVC\\Views\\Contato\\Criar.cshtml",
-              "RelativeToolTip": "ProjetoMVC\\Views\\Contato\\Criar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T18:44:12.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ContatoController.cs",
-              "DocumentMoniker": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoMVC\\ProjetoMVC\\Controllers\\ContatoController.cs",
-              "RelativeDocumentMoniker": "ProjetoMVC\\Controllers\\ContatoController.cs",
-              "ToolTip": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoMVC\\ProjetoMVC\\Controllers\\ContatoController.cs",
-              "RelativeToolTip": "ProjetoMVC\\Controllers\\ContatoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T18:43:37.86Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ApagarConfirmacao.cshtml",
-              "DocumentMoniker": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoMVC\\ProjetoMVC\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "DocumentMoniker": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoASP-MVC\\ProjetoMVC\\ProjetoMVC\\Views\\Contato\\ApagarConfirmacao.cshtml",
               "RelativeDocumentMoniker": "ProjetoMVC\\Views\\Contato\\ApagarConfirmacao.cshtml",
-              "ToolTip": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoMVC\\ProjetoMVC\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "ToolTip": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoASP-MVC\\ProjetoMVC\\ProjetoMVC\\Views\\Contato\\ApagarConfirmacao.cshtml",
               "RelativeToolTip": "ProjetoMVC\\Views\\Contato\\ApagarConfirmacao.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-25T18:42:58.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoMVC\\ProjetoMVC\\Views\\Contato\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMVC\\Views\\Contato\\Index.cshtml",
-              "ToolTip": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoMVC\\ProjetoMVC\\Views\\Contato\\Index.cshtml",
-              "RelativeToolTip": "ProjetoMVC\\Views\\Contato\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T18:41:51.841Z",
               "EditorCaption": ""
             }
           ]
