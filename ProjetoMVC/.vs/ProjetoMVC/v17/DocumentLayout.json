@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoASP-MVC\\ProjetoASP-MVC\\ProjetoMVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BD586B-7E2D-4265-87B1-53CA4508BC3A}|ProjetoMVC\\ProjetoMVC.csproj|c:\\users\\santa\\onedrive\\documentos\\projetoasp\\projetoasp-mvc\\projetoasp-mvc\\projetomvc\\projetomvc\\migrations\\20250715011126_criandotabelacontatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BD586B-7E2D-4265-87B1-53CA4508BC3A}|ProjetoMVC\\ProjetoMVC.csproj|solutionrelative:projetomvc\\migrations\\20250715011126_criandotabelacontatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250715011126_CriandoTabelaContatos.cs",
+              "DocumentMoniker": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoASP-MVC\\ProjetoASP-MVC\\ProjetoMVC\\ProjetoMVC\\Migrations\\20250715011126_CriandoTabelaContatos.cs",
+              "RelativeDocumentMoniker": "ProjetoMVC\\Migrations\\20250715011126_CriandoTabelaContatos.cs",
+              "ToolTip": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoASP-MVC\\ProjetoASP-MVC\\ProjetoMVC\\ProjetoMVC\\Migrations\\20250715011126_CriandoTabelaContatos.cs",
+              "RelativeToolTip": "ProjetoMVC\\Migrations\\20250715011126_CriandoTabelaContatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T01:11:27.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

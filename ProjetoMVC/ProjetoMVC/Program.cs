@@ -1,3 +1,7 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using ProjetoMVC.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

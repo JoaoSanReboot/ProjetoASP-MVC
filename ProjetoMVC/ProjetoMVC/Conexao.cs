@@ -1,17 +1,26 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Design;
 using ProjetoMVC.Data;
 
 namespace ProjetoMVC
 {
     public class Conexao
     {
-
-        public IConfiguration Configuration { get; }
-
-        public void ConfigureServices(IServiceCollection services)
+        public class BancoContextFactory : IDesignTimeDbContextFactory<BancoContext>
         {
-            services.AddEntityFrameworkSqlServer()
-                .AddDbContext<BancoContext>(o => o.UseSqlServer(Configuration.GetConnectionString("DataBase")));
+            public BancoContext CreateDbContext(string[] args)
+            {
+                var configuration = new ConfigurationBuilder()
+                    .SetBasePath(Directory.GetCurrentDirectory())
+                    .AddJsonFile("appsettings.json")
+                    .Build();
+
+                var optionsBuilder = new DbContextOptionsBuilder<BancoContext>();
+                optionsBuilder.UseSqlServer(configuration.GetConnectionString("DataBase"));
+
+                return new BancoContext(optionsBuilder.Options);
+            }
         }
+
     }
 }
