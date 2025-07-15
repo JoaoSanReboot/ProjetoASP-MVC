@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{C2BD586B-7E2D-4265-87B1-53CA4508BC3A}|ProjetoMVC\\ProjetoMVC.csproj|c:\\users\\santa\\onedrive\\documentos\\projetoasp\\projetoasp-mvc\\projetomvc\\projetomvc\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2BD586B-7E2D-4265-87B1-53CA4508BC3A}|ProjetoMVC\\ProjetoMVC.csproj|solutionrelative:projetomvc\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BD586B-7E2D-4265-87B1-53CA4508BC3A}|ProjetoMVC\\ProjetoMVC.csproj|c:\\users\\santa\\onedrive\\documentos\\projetoasp\\projetoasp-mvc\\projetomvc\\projetomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BD586B-7E2D-4265-87B1-53CA4508BC3A}|ProjetoMVC\\ProjetoMVC.csproj|solutionrelative:projetomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoASP-MVC\\ProjetoMVC\\ProjetoMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoASP-MVC\\ProjetoMVC\\ProjetoMVC\\Program.cs",
+              "RelativeToolTip": "ProjetoMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:19:48.014Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +41,9 @@
               "RelativeDocumentMoniker": "ProjetoMVC\\Data\\BancoContext.cs",
               "ToolTip": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoASP-MVC\\ProjetoMVC\\ProjetoMVC\\Data\\BancoContext.cs",
               "RelativeToolTip": "ProjetoMVC\\Data\\BancoContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T20:52:20.632Z",
+              "WhenOpened": "2025-07-09T01:04:44.573Z",
               "EditorCaption": ""
             }
           ]

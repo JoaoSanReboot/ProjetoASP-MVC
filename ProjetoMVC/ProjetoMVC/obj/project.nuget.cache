@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K/pAUL54NpA=",
+  "dgSpecHash": "TwXeyYpGMqY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoASP-MVC\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC.csproj",
+  "projectFilePath": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoASP-MVC\\ProjetoASP-MVC\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santa\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\santa\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

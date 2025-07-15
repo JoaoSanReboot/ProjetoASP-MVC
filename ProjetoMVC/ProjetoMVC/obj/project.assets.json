@@ -4729,11 +4729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoASP-MVC\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC.csproj",
+      "projectUniqueName": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoASP-MVC\\ProjetoASP-MVC\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC.csproj",
       "projectName": "ProjetoMVC",
-      "projectPath": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoASP-MVC\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC.csproj",
+      "projectPath": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoASP-MVC\\ProjetoASP-MVC\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC.csproj",
       "packagesPath": "C:\\Users\\santa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoASP-MVC\\ProjetoMVC\\ProjetoMVC\\obj\\",
+      "outputPath": "C:\\Users\\santa\\OneDrive\\Documentos\\ProjetoASP\\ProjetoASP-MVC\\ProjetoASP-MVC\\ProjetoMVC\\ProjetoMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
